@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: sa.stira.mousePosition.Main
+Class-Path: jnativehook-2.1.0.jar

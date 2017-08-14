@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jnativehook-2.1.0">
+    <CLASSES>
+      <root url="jar://C:/JavaLibraries/utility/jnativehook-2.1.0.jar!/" />
+      <root url="jar://C:/JavaLibraries/utility/jnativehook-2.1.0.jar!/org/jnativehook/lib/windows/x86/JNativeHook.dll" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
